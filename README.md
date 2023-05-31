@@ -3,8 +3,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ankit Nepal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">Hi 👋, I'm Anish Timalsina</h1>
+<h3 align="center">A passionate Web and Java developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nepalankit&label=Profile%20views&color=0e75b6&style=flat" alt="nepalankit" /> </p>
 
